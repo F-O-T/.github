@@ -47,12 +47,12 @@ Este trabalho é viabilizado pelo apoio generoso dos nossos patrocinadores.
   <tr>
     <td align="center" width="300">
       <a href="https://www.somahub.net.br/">
-        <strong>Somahub</strong>
+        <img src="https://raw.githubusercontent.com/F-O-T/.github/main/profile/somahub.webp" alt="Somahub" width="180">
       </a>
     </td>
     <td align="center" width="300">
       <a href="https://licitei.com.br">
-        <strong>Licitei</strong>
+        <img src="https://raw.githubusercontent.com/F-O-T/.github/main/profile/licitei.svg" alt="Licitei" width="180">
       </a>
     </td>
   </tr>
