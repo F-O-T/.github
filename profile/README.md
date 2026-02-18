@@ -41,22 +41,21 @@ Coleção de bibliotecas TypeScript sem dependências externas cobrindo assinatu
 
 ## Patrocinadores
 
+<div align="center">
+
 Este trabalho é viabilizado pelo apoio generoso dos nossos patrocinadores.
 
-<table>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://www.somahub.net.br/">
-        <img src="https://raw.githubusercontent.com/F-O-T/.github/main/profile/somahub.webp" alt="Somahub" width="180">
-      </a>
-    </td>
-    <td align="center" width="300">
-      <a href="https://licitei.com.br">
-        <img src="https://raw.githubusercontent.com/F-O-T/.github/main/profile/licitei.svg" alt="Licitei" width="180">
-      </a>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<a href="https://www.somahub.net.br/">
+  <img src="https://raw.githubusercontent.com/F-O-T/.github/main/profile/somahub.webp" alt="Somahub" width="200">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://licitei.com.br">
+  <img src="https://raw.githubusercontent.com/F-O-T/.github/main/profile/licitei.svg" alt="Licitei" width="200">
+</a>
+
+</div>
 
 ---
 
